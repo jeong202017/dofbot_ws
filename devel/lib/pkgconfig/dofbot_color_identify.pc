@@ -1,0 +1,8 @@
+prefix=/home/chanwoo/catkin_ws/devel
+
+Name: dofbot_color_identify
+Description: Description of dofbot_color_identify
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

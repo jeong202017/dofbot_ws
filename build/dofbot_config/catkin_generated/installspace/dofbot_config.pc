@@ -1,0 +1,8 @@
+prefix=/home/chanwoo/catkin_ws/install
+
+Name: dofbot_config
+Description: Description of dofbot_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

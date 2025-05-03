@@ -1,0 +1,8 @@
+prefix=/home/chanwoo/catkin_ws/devel
+
+Name: dofbot_color_stacking
+Description: Description of dofbot_color_stacking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

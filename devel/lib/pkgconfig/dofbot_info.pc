@@ -1,0 +1,8 @@
+prefix=/home/chanwoo/catkin_ws/devel
+
+Name: dofbot_info
+Description: Description of dofbot_info
+Version: 0.0.0
+Cflags: -I/home/chanwoo/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rosmsg rospy message_runtime

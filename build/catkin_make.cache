@@ -1,0 +1,2 @@
+arm_mediapipe:dofbot_color_identify:dofbot_color_stacking:dofbot_config:dofbot_garbage_yolov4_tiny:dofbot_info:dofbot_mediapipe:dofbot_snake_follow:dofbot_visual:yahboomcar_description:yahboomcar_msgs
+-DCATKIN_DEVEL_PREFIX=/home/chanwoo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chanwoo/catkin_ws/install -G Unix Makefiles

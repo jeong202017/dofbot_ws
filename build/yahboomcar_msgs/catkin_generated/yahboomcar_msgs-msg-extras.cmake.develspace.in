@@ -1,0 +1,2 @@
+set(yahboomcar_msgs_MESSAGE_FILES "/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/Position.msg;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/PointArray.msg;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/Image_Msg.msg;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/Target.msg;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/TargetArray.msg;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/msg/ArmJoint.msg")
+set(yahboomcar_msgs_SERVICE_FILES "/home/chanwoo/catkin_ws/src/yahboomcar_msgs/srv/RobotArmArray.srv;/home/chanwoo/catkin_ws/src/yahboomcar_msgs/srv/kinemarics.srv")
